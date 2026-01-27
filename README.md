@@ -1,6 +1,6 @@
 # Genomic basis of early-life adaptation of Baltic herring to low-salinity environment
 
-## About the Project
+## About the project
 This repository is related to a collaborative research project investigating the genetic and molecular mechanisms underlying adaptation of herring to the brackish Baltic Sea environment.
 
 Our study focuses on how marine fish adapt to low-salinity conditions through genetic changes in genes critical for reproduction and early development, including sperm-, egg-, and embryo-associated proteins.
@@ -15,7 +15,7 @@ Atlantic herring has successfully colonized the Baltic Sea (where salinity reach
 
 Notably, three of these four gene families (ZPBA, FTG1-3, and HE1C) show evidence of adaptive introgression from Pacific herring populations.
 
-## Related Publication
+## Related publication
 This work is part of a collaborative study:
 
 Ma, C.\*, Mohamadnejad Sangdehi, F.\*, Kawaguchi, M.\*\*, Sano, K.\*\*, Dannenberg, S.V.\*\*, Pettersson, M.E., Wallberg, A., Wort, J.L., Yan, Y., Moshkovskiy, S., Berg, F., Folkvord, A., Lenz, C., Urlaub, H., Kaupp, U.B., Yasumasu, S., Andersson, L.
@@ -25,7 +25,7 @@ Ma, C.\*, Mohamadnejad Sangdehi, F.\*, Kawaguchi, M.\*\*, Sano, K.\*\*, Dannenbe
 \* Contributed equally  
 \*\* Contributed equally
 
-## Repository Contents
+## Repository contents
 This repository contains code and data specifically for the analysis of egg and embryo proteins. The code includes analyses of structural variation, copy number analysis, molecular evolution, phylogenetic analysis, and other relevant genomic analyses.
 
 ## Contact
