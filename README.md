@@ -1,0 +1,28 @@
+# Genomic basis of early-life adaptation of Baltic herring to low-salinity environment
+
+## About the Project
+This repository is related to a collaborative research project investigating the genetic and molecular mechanisms underlying adaptation of herring to the brackish Baltic Sea environment.
+Our study focuses on how marine fish adapt to low-salinity conditions through genetic changes in genes critical for reproduction and early development, including sperm, egg, and embryo-associated proteins.
+
+## Overview of key findings
+Atlantic herring has successfully colonized the Baltic Sea (where salinity reaches as low as ~3‰) from the North Atlantic (where salinity is ~35‰) within the last 8,000 years. Our study identifies four key gene families under strong natural selection that enable reproduction in brackish water:
+
+LRRC8C2 - A sperm-specific volume-regulated anion channel that prevents sperm swelling in low salinity
+ZPBA - A major egg envelope protein with altered sequence in Baltic populations
+FTG1-3 - Fish transglutaminase genes that produce a harder, denser egg envelope resistant to swelling
+HE1C - Hatching enzyme genes with massive copy number expansion enabling larvae to digest the reinforced egg envelope
+
+Notably, three of these four gene families (ZPBA, FTG1-3, and HE1C) show evidence of adaptive introgression from Pacific herring populations.
+
+## Related Publication
+This work is part of a collaborative study:
+Ma, C.*, Mohamadnejad Sangdehi, F.*, Kawaguchi, M.**, Sano, K.**, Dannenberg, S.V.**, Pettersson, M.E., Wallberg, A., Wort, J.L., Yan, Y., Moshkovskiy, S., Berg, F., Folkvord, A., Lenz, C., Urlaub, H., Kaupp, U.B., Yasumasu, S., Andersson, L.
+*Sperm, egg and embryo proteins critical for genetic adaptation of herring to low salinity in the Baltic Sea.*
+**PNAS (under review)**
+
+## Repository Contents
+This repository contains code and data specifically for the analysis of egg and embryo proteins. The code includes analyses of structural variation, copy number analysis, molecular evolution, phylogenetic analysis, and other relevant genomic analyses.
+
+## Contact
+📧 fahime.mohamadnejad@imbim.uu.se
+📧 fhmohamadnejad@gmail.com
