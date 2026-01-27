@@ -3,7 +3,7 @@
 ## About the Project
 This repository is related to a collaborative research project investigating the genetic and molecular mechanisms underlying adaptation of herring to the brackish Baltic Sea environment.
 
-Our study focuses on how marine fish adapt to low-salinity conditions through genetic changes in genes critical for reproduction and early development, including sperm, egg, and embryo-associated proteins.
+Our study focuses on how marine fish adapt to low-salinity conditions through genetic changes in genes critical for reproduction and early development, including sperm-, egg-, and embryo-associated proteins.
 
 ## Overview of key findings
 Atlantic herring has successfully colonized the Baltic Sea (where salinity reaches as low as ~3‰) from the North Atlantic (where salinity is ~35‰) within the last 8,000 years. Our study identifies four key gene families under strong natural selection that enable reproduction in brackish water:
