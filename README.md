@@ -16,7 +16,7 @@ Notably, three of these four gene families (ZPBA, FTG1-3, and HE1C) show evidenc
 
 ## Related Publication
 This work is part of a collaborative study:
-Ma, C.*, Mohamadnejad Sangdehi, F.*, Kawaguchi, M.**, Sano, K.**, Dannenberg, S.V.**, Pettersson, M.E., Wallberg, A., Wort, J.L., Yan, Y., Moshkovskiy, S., Berg, F., Folkvord, A., Lenz, C., Urlaub, H., Kaupp, U.B., Yasumasu, S., Andersson, L.
+Ma, C.\*, Mohamadnejad Sangdehi, F.\*, Kawaguchi, M.\*\*, Sano, K.\*\*, Dannenberg, S.V.\*\*, Pettersson, M.E., Wallberg, A., Wort, J.L., Yan, Y., Moshkovskiy, S., Berg, F., Folkvord, A., Lenz, C., Urlaub, H., Kaupp, U.B., Yasumasu, S., Andersson, L.
 *Sperm, egg and embryo proteins critical for genetic adaptation of herring to low salinity in the Baltic Sea.*
 **PNAS (under review)**
 
