@@ -22,6 +22,9 @@ Ma, C.\*, Mohamadnejad Sangdehi, F.\*, Kawaguchi, M.\*\*, Sano, K.\*\*, Dannenbe
 *Sperm, egg and embryo proteins critical for genetic adaptation of herring to low salinity in the Baltic Sea.*
 ***PNAS*** **(under review)**
 
+\* Contributed equally  
+\*\* Contributed equally
+
 ## Repository Contents
 This repository contains code and data specifically for the analysis of egg and embryo proteins. The code includes analyses of structural variation, copy number analysis, molecular evolution, phylogenetic analysis, and other relevant genomic analyses.
 
