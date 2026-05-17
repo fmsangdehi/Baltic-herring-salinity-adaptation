@@ -17,7 +17,8 @@ Notably, three of these four gene families (ZPBA, FTG1-3, and HE1C) show evidenc
 
 ## Related publication
 The related publication is available in PNAS:
-[**Sperm, egg, and embryo proteins critical for genetic adaptation of herring to low salinity in the Baltic Sea**] (https://www.pnas.org/doi/10.1073/pnas.2601861123)
+
+[**Sperm, egg, and embryo proteins critical for genetic adaptation of herring to low salinity in the Baltic Sea**](https://www.pnas.org/doi/10.1073/pnas.2601861123)
 
 ## Repository contents
 This repository contains code and data specifically for the analysis of egg and embryo proteins. The code includes analyses of structural variation, copy number analysis, molecular evolution, phylogenetic analysis, and other relevant genomic analyses.
