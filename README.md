@@ -16,14 +16,8 @@ Atlantic herring has successfully colonized the Baltic Sea (where salinity reach
 Notably, three of these four gene families (ZPBA, FTG1-3, and HE1C) show evidence of adaptive introgression from Pacific herring populations.
 
 ## Related publication
-This work is part of a collaborative study:
-
-Ma, C.\*, Mohamadnejad Sangdehi, F.\*, Kawaguchi, M.\*\*, Sano, K.\*\*, Dannenberg, S.V.\*\*, Pettersson, M.E., Wallberg, A., Wort, J.L., Yan, Y., Moshkovskiy, S., Berg, F., Folkvord, A., Lenz, C., Urlaub, H., Kaupp, U.B., Yasumasu, S., Andersson, L.
-*Sperm, egg and embryo proteins critical for genetic adaptation of herring to low salinity in the Baltic Sea.*
-***PNAS*** **(under review)**
-
-\* Contributed equally  
-\*\* Contributed equally
+The related publication is available in PNAS:
+[**Sperm, egg, and embryo proteins critical for genetic adaptation of herring to low salinity in the Baltic Sea**] (https://www.pnas.org/doi/10.1073/pnas.2601861123)
 
 ## Repository contents
 This repository contains code and data specifically for the analysis of egg and embryo proteins. The code includes analyses of structural variation, copy number analysis, molecular evolution, phylogenetic analysis, and other relevant genomic analyses.
